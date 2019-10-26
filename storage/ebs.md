@@ -19,3 +19,13 @@ EBS \(Elastic Block Store\) and [S3](untitled.md) are two file storage services 
 * Or select a _burstable_ performance model
 * Scale to tens of thousands of IOPS per EC2 instance
 
+## Types of EBS Volumes
+
+* Standard
+* Provisioned IOPS
+* General Purpose
+
+![EBS types \(aws.training\)](../.gitbook/assets/screen-shot-2019-10-26-at-3.58.08-pm.png)
+
+
+
