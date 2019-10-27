@@ -6,8 +6,10 @@ description: Simple Storage Service
 
 Storage - S3 \(simple storage service\) - “bucket” is storage container 
 
+* Commonly used for static file storage
+* Secure, highly scalable, reliable, fast, inexpensive
 * Buckets are locked to AWS Regions 
-* Elastic Block Store \(AWS EBS\) - S3 \(Simple Storage Service\) 
+* Example: images, video, data, backups, Hadoop clusters
 
 
 
