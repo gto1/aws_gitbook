@@ -32,6 +32,10 @@
 
 ## Databases
 
+* [Amazon RDS](databases/amazon-rds.md)
+* [Amazon DynamoDB](databases/amazon-dynamodb.md)
+* [AWS Database Migration Service](databases/aws-database-migration-service.md)
+* [Amazon Redshift](databases/amazon-redshift.md)
 * [Aurora](databases/untitled.md)
 
 ## Networking and Security
