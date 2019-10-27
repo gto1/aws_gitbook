@@ -15,5 +15,5 @@ IAM - Identity and Access Management
 
 ![Connect with several services for identity management.](../.gitbook/assets/screen-shot-2019-10-27-at-1.26.23-pm.png)
 
-
+Use AWS Identity Federation to connect with your company's Active Directory or other user management service.
 
