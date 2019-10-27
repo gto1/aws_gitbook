@@ -2,7 +2,7 @@
 description: Centralized AWS Monitoring
 ---
 
-# Monitoring
+# CloudWatch
 
 Centralized Monitoring 
 

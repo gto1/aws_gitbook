@@ -37,6 +37,12 @@
 * [Route 53](networking/untitled-1.md)
 * [Networking Rules](networking/networking-rules.md)
 
+## Management
+
+* [CloudWatch](management/untitled.md)
+* [CloudFormation](management/cloudformation.md)
+* [Trusted Advisor](management/trusted-advisor.md)
+
 ## Security
 
 * [IAM](security/iam.md)
@@ -48,7 +54,7 @@
 
 ## Monitoring & Logging
 
-* [Monitoring](monitoring-and-logging/untitled.md)
+* [CloudWatch](monitoring-and-logging/cloudwatch2.md)
 * [Logging](monitoring-and-logging/logging.md)
 * [CloudTrail](monitoring-and-logging/cloudtrail.md)
 
