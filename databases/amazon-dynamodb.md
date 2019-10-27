@@ -2,7 +2,7 @@
 description: 'Fast, flexible NoSQL database service'
 ---
 
-# Amazon DynamoDB
+# DynamoDB
 
 ## Features
 

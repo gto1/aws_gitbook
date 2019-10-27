@@ -2,7 +2,7 @@
 description: Continuous Integration
 ---
 
-# CI
+# Continuous Integration
 
 CircleCI \(not AWS\) - AWS has one but not very mature
 

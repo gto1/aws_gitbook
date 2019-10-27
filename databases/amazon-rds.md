@@ -2,7 +2,7 @@
 description: Relational Database Service
 ---
 
-# Amazon RDS
+# RDS
 
 ## Features
 

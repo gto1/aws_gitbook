@@ -2,7 +2,7 @@
 description: Archival and data backup service
 ---
 
-# Amazon Glacier
+# Glacier
 
 ## Common Uses:
 

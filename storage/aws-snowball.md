@@ -2,7 +2,7 @@
 description: Petabyte-scale Data Transport Solution
 ---
 
-# AWS Snowball
+# Snowball
 
 ## Common Uses:
 

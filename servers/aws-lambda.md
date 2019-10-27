@@ -2,7 +2,7 @@
 description: Serverless Compute Power
 ---
 
-# AWS Lambda
+# Lambda
 
 [Lambda](https://aws.amazon.com/lambda/) - offload simple logic to “serverless” 
 

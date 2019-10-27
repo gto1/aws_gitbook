@@ -2,7 +2,7 @@
 description: Global Content Delivery Network (CDN)
 ---
 
-# Amazon CloudFront
+# CloudFront
 
 ## Features
 

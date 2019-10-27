@@ -2,7 +2,7 @@
 description: Elastic Container Service
 ---
 
-# Amazon ECS
+# ECS
 
 Resource Management with Docker & AWS [ECS](https://aws.amazon.com/ecs/)
 

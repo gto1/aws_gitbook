@@ -2,7 +2,7 @@
 description: Simple Storage Service
 ---
 
-# Amazon S3
+# S3
 
 Storage - S3 \(simple storage service\) - “bucket” is storage container 
 

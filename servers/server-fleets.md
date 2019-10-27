@@ -2,7 +2,7 @@
 description: Elastic Compute Cloud
 ---
 
-# Amazon EC2
+# EC2
 
 EC2 - Virtual Machines - database, servers, load balancer, IP to connect to 
 

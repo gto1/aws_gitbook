@@ -2,5 +2,5 @@
 description: Continuous Deployment
 ---
 
-# CD
+# Continuous Deployment
 
