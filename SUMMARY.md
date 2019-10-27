@@ -2,16 +2,12 @@
 
 * [Learning AWS](README.md)
 
-## Servers / Compute <a id="servers"></a>
+## Servers & Compute <a id="servers"></a>
 
 * [EC2](servers/server-fleets.md)
 * [ECS](servers/amazon-ecs.md)
 * [Lambda](servers/aws-lambda.md)
 * [Load Balancers](servers/load-balancers.md)
-
-## Docker and Containers
-
-* [Docker](docker-and-containers/untitled.md)
 
 ## Auto Scaling
 
@@ -50,20 +46,21 @@
 
 * [CloudFront](content-delivery-networks/untitled.md)
 
-## Centralized Monitoring & Logging
+## Monitoring & Logging
 
-* [Monitoring](centralized-monitoring-and-logging/untitled.md)
-* [Logging](centralized-monitoring-and-logging/logging.md)
-* [CloudTrail](centralized-monitoring-and-logging/cloudtrail.md)
+* [Monitoring](monitoring-and-logging/untitled.md)
+* [Logging](monitoring-and-logging/logging.md)
+* [CloudTrail](monitoring-and-logging/cloudtrail.md)
 
 ## Developer Tools
 
 * [Local Development Technologies](developer-tools/untitled-1.md)
+* [Docker](developer-tools/untitled-2.md)
 * [Continuous Integration](developer-tools/ci.md)
 * [Continuous Deployment](developer-tools/cd.md)
 * [TBA](developer-tools/untitled.md)
 
-## Growth and Optimization
+## Growth & Optimization
 
 * [Growth Options](growth-and-optimization/growth.md)
 
