@@ -45,7 +45,7 @@
 ## Security
 
 * [IAM](security/iam.md)
-* [WAF](security/untitled.md)
+* [WAF](security/waf.md)
 
 ## Content Delivery Networks
 
