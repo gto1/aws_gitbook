@@ -39,7 +39,6 @@
 
 ## Management
 
-* [CloudWatch](management/untitled.md)
 * [CloudFormation](management/cloudformation.md)
 * [Trusted Advisor](management/trusted-advisor.md)
 
@@ -54,7 +53,7 @@
 
 ## Monitoring & Logging
 
-* [CloudWatch](monitoring-and-logging/cloudwatch2.md)
+* [CloudWatch](monitoring-and-logging/untitled.md)
 * [Logging](monitoring-and-logging/logging.md)
 * [CloudTrail](monitoring-and-logging/cloudtrail.md)
 
