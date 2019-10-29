@@ -48,9 +48,10 @@
 * [IAM](security/iam.md)
 * [WAF](security/waf.md)
 
-## Content Delivery Networks
+## Analytics
 
-* [CloudFront](content-delivery-networks/untitled.md)
+* [EMR](analytics/untitled.md)
+* [Kenisis/Analytics](analytics/kenisis.md)
 
 ## Monitoring & Logging
 

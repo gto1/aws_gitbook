@@ -8,6 +8,11 @@ IAM - Identity and Access Management
 
 * Manage users, groups
 * Integrates with corporate IdP for federated control of user access
+* Single identity access management system
+* Physical security certification
+* Data locality controls
+* Infrastructure building blocks
+* Compliance standards
 
 ![IAM](../.gitbook/assets/screen-shot-2019-10-27-at-1.23.09-pm.png)
 
