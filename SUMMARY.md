@@ -8,6 +8,7 @@
 * [ECS](servers/amazon-ecs.md)
 * [Lambda](servers/aws-lambda.md)
 * [Load Balancers](servers/load-balancers.md)
+* [Elastic Beanstalk](servers/elastic-beanstalk.md)
 
 ## Auto Scaling
 
