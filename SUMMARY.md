@@ -89,7 +89,14 @@
 ## Artificial Intelligence
 
 * [Machine Learning](artificial-intelligence/untitled.md)
+* [Rekognition](artificial-intelligence/rekognition.md)
+* [Speech: Polly](artificial-intelligence/speech-polly.md)
+* [Lex](artificial-intelligence/lex.md)
 * [SageMaker](artificial-intelligence/sagemaker.md)
+* [DeepLens](artificial-intelligence/deeplens.md)
+* [Spark & EMR](artificial-intelligence/spark-and-emr.md)
+* [Mechanical Turk](artificial-intelligence/mechanical-turk.md)
+* [Deep Learning AMI](artificial-intelligence/deep-learning-ami.md)
 
 ## IoT
 
