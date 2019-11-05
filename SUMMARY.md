@@ -65,31 +65,36 @@
 * [Docker](developer-tools/untitled-2.md)
 * [Continuous Integration](developer-tools/ci.md)
 * [Continuous Deployment](developer-tools/cd.md)
-* [TBA](developer-tools/untitled.md)
+* [CodePipeline](developer-tools/untitled.md)
+* [CodeCommit](developer-tools/codecommit.md)
+* [CodeBuild](developer-tools/codebuild.md)
+* [CodeDeploy](developer-tools/codedeploy.md)
+* [X-Ray](developer-tools/x-ray.md)
+* [CodeStar](developer-tools/codestar.md)
+* [Cloud 9](developer-tools/cloud-9.md)
 
 ## Growth & Optimization
 
 * [Growth Options](growth-and-optimization/growth.md)
 
-## Implementing Architecture
-
 ## Application Services
 
-* [TBA](application-services/untitled.md)
+* [API Gateway](application-services/untitled.md)
+* [SQS](application-services/sqs.md)
 
 ## Enterprise
 
-* [TBA](enterprise/untitled.md)
+* [Workspaces](enterprise/untitled.md)
 
 ## Artificial Intelligence
 
-* [TBA](artificial-intelligence/untitled.md)
+* [Machine Learning](artificial-intelligence/untitled.md)
 
 ## IoT
 
-* [TBA](iot/untitled.md)
+* [Internet of Things](iot/untitled.md)
 
 ## Accessing AWS
 
-* [TBA](accessing-aws/untitled.md)
+* [Methods of Access](accessing-aws/untitled.md)
 
