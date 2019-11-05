@@ -89,6 +89,7 @@
 ## Artificial Intelligence
 
 * [Machine Learning](artificial-intelligence/untitled.md)
+* [SageMaker](artificial-intelligence/sagemaker.md)
 
 ## IoT
 
