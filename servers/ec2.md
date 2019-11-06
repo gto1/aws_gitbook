@@ -78,7 +78,7 @@ Chose which best fits your project.
 
 A place to find and initiate all kinds of projects and apps.
 
-* Pre-configured [AMIs](server-fleets.md)
+* Pre-configured [AMIs](ec2.md)
 * Ready to launch 
 * Compare pricing 
 * [https://aws.amazon.com/marketplace](https://aws.amazon.com/marketplace)

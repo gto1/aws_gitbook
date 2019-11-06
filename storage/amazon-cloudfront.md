@@ -20,7 +20,7 @@ Optimized to work with other AWS services:
 * Amazon Route 53
 * [Amazon S3](untitled.md)
 * [Elastic Load Balancers](../servers/load-balancers.md) 
-* [EC2](../servers/server-fleets.md)
+* [EC2](../servers/ec2.md)
 
 Also works with non-AWS origins.
 

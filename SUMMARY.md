@@ -4,7 +4,7 @@
 
 ## Servers & Compute <a id="servers"></a>
 
-* [EC2](servers/server-fleets.md)
+* [EC2](servers/ec2.md)
 * [ECS](servers/amazon-ecs.md)
 * [Lambda](servers/aws-lambda.md)
 * [Load Balancers](servers/load-balancers.md)
