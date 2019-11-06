@@ -75,6 +75,7 @@
 
 ## Growth & Optimization
 
+* [Personalize](growth-and-optimization/personalize.md)
 * [Growth Options](growth-and-optimization/growth.md)
 
 ## Application Services
