@@ -72,6 +72,7 @@
 * [X-Ray](developer-tools/x-ray.md)
 * [CodeStar](developer-tools/codestar.md)
 * [Cloud 9](developer-tools/cloud-9.md)
+* [Mobile Development](developer-tools/mobile-development.md)
 
 ## Growth & Optimization
 
@@ -105,6 +106,5 @@
 
 ## Accessing AWS
 
-* [Methods of Access](accessing-aws/untitled/README.md)
-  * [Mobile Development](accessing-aws/untitled/mobile-development.md)
+* [Methods of Access](accessing-aws/untitled.md)
 
