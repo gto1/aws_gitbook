@@ -1,5 +1,5 @@
 ---
-description: Mobile Development on AWA
+description: Mobile Development on AWS
 ---
 
 # Mobile Development
