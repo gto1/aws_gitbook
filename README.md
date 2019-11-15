@@ -6,3 +6,11 @@ description: Understanding the Industry Leading Cloud Computing Platform
 
 This guide is organized by types of work, products, and services offered by AWS.
 
+
+
+
+
+{% hint style="info" %}
+Several images in this document are provided by Amazon APN training.
+{% endhint %}
+
