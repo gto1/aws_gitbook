@@ -105,5 +105,6 @@
 
 ## Accessing AWS
 
-* [Methods of Access](accessing-aws/untitled.md)
+* [Methods of Access](accessing-aws/untitled/README.md)
+  * [Mobile Development](accessing-aws/untitled/mobile-development.md)
 
