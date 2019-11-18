@@ -22,5 +22,5 @@ These five \(5\) pillars are:
 
 ![](../.gitbook/assets/screen-shot-2019-11-18-at-6.26.23-pm.png)
 
-![](../.gitbook/assets/screen-shot-2019-11-18-at-6.30.13-pm.png)
+![](../.gitbook/assets/screen-shot-2019-11-18-at-6.30.13-pm%20%281%29.png)
 

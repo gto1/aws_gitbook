@@ -10,10 +10,11 @@
 * [Load Balancers](servers/load-balancers.md)
 * [Elastic Beanstalk](servers/elastic-beanstalk.md)
 
-## Auto Scaling
+## High Availability
 
-* [ASG](auto-scaling/asg.md)
-* [Alarms](auto-scaling/untitled.md)
+* [HA Services](high-availability/ha-services.md)
+* [ASG](high-availability/asg.md)
+* [Alarms](high-availability/untitled.md)
 
 ## Storage & Delivery <a id="storage"></a>
 
