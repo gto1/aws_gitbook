@@ -104,8 +104,8 @@
 
 * [Internet of Things](iot/untitled.md)
 
-## Accessing AWS
+## Miscellaneous <a id="misc"></a>
 
-* [Methods of Access](accessing-aws/untitled.md)
-* [Pricing](accessing-aws/pricing.md)
+* [Methods of Access](misc/untitled.md)
+* [Pricing](misc/pricing.md)
 
