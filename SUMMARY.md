@@ -108,4 +108,5 @@
 
 * [Methods of Access](misc/untitled.md)
 * [Pricing](misc/pricing.md)
+* [Shared Responsibility Model](misc/shared-responsibility-model.md)
 
