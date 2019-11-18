@@ -14,3 +14,7 @@ description: Mobile Development on AWS
 
 ![](../.gitbook/assets/screen-shot-2019-11-18-at-5.57.38-pm.png)
 
+## AWS Mobile Application Components
+
+![](../.gitbook/assets/screen-shot-2019-11-18-at-6.01.05-pm.png)
+
