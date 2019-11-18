@@ -13,6 +13,7 @@ IAM - Identity and Access Management
 * Data locality controls
 * Infrastructure building blocks
 * Compliance standards
+* Least privilege security best practice
 
 ![IAM](../.gitbook/assets/screen-shot-2019-10-27-at-1.23.09-pm.png)
 
