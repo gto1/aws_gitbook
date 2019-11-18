@@ -50,6 +50,7 @@
 * [Compute Security](security/compute-security.md)
 * [Storage & Memory Security](security/storage-and-memory-security.md)
 * [Database Security](security/database-security.md)
+* [AWS Built-In Security](security/aws-built-in-security.md)
 
 ## Analytics
 
