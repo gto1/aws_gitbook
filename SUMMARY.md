@@ -52,6 +52,7 @@
 * [Database Security](security/database-security.md)
 * [AWS Built-In Security](security/aws-built-in-security.md)
 * [Shield and Advanced](security/shield-and-advanced.md)
+* [By Industry](security/by-industry.md)
 
 ## Analytics
 
