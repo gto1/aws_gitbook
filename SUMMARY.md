@@ -48,6 +48,7 @@
 * [IAM](security/iam.md)
 * [WAF](security/waf.md)
 * [Compute Security](security/compute-security.md)
+* [Storage & Memory Security](security/storage-and-memory-security.md)
 
 ## Analytics
 
