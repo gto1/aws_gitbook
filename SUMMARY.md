@@ -107,4 +107,5 @@
 ## Accessing AWS
 
 * [Methods of Access](accessing-aws/untitled.md)
+* [Pricing](accessing-aws/pricing.md)
 
