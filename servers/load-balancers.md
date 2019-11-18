@@ -10,3 +10,5 @@ Load Balancers - accept incoming traffic and distribute to the webservers that c
   * health checks
   * metrics
 
+![](../.gitbook/assets/screen-shot-2019-11-18-at-6.33.00-pm.png)
+
