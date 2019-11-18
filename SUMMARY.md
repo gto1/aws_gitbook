@@ -86,6 +86,7 @@
 
 ## Growth & Optimization
 
+* [Migration](growth-and-optimization/migration.md)
 * [Personalize](growth-and-optimization/personalize.md)
 * [Growth Options](growth-and-optimization/growth.md)
 
