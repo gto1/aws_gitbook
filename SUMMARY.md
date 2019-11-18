@@ -51,6 +51,7 @@
 * [Storage & Memory Security](security/storage-and-memory-security.md)
 * [Database Security](security/database-security.md)
 * [AWS Built-In Security](security/aws-built-in-security.md)
+* [Shield and Advanced](security/shield-and-advanced.md)
 
 ## Analytics
 
