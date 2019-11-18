@@ -55,10 +55,11 @@
 * [Shield and Advanced](security/shield-and-advanced.md)
 * [By Industry](security/by-industry.md)
 
-## Analytics
+## Analytics & Big Data <a id="analytics"></a>
 
 * [EMR](analytics/untitled.md)
 * [Kenisis/Analytics](analytics/kenisis.md)
+* [Apache Hadoop](analytics/apache-hadoop.md)
 
 ## Monitoring & Logging
 
