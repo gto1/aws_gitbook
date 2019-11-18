@@ -18,3 +18,7 @@ description: Mobile Development on AWS
 
 ![](../.gitbook/assets/screen-shot-2019-11-18-at-6.01.05-pm.png)
 
+## Mobile Application Security Architecture
+
+![](../.gitbook/assets/screen-shot-2019-11-18-at-6.02.21-pm.png)
+
