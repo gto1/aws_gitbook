@@ -123,6 +123,7 @@
 * [Change Management](misc/change-management.md)
 * [Well Architected Framework](misc/well-architected-framework.md)
 * [Cloud Value Framework](misc/cloud-value-framework.md)
+* [AWS Flywheel](misc/aws-flywheel.md)
 
 ## Cloud Economics
 

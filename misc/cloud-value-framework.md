@@ -14,3 +14,5 @@ Cloud economics = business value and cloud financial management
 * Operational resilience 
 * Business agility
 
+![](../.gitbook/assets/screen-shot-2019-11-19-at-2.40.48-pm.png)
+
