@@ -122,6 +122,7 @@
 * [Shared Responsibility Model](misc/shared-responsibility-model.md)
 * [Change Management](misc/change-management.md)
 * [Well Architected Framework](misc/well-architected-framework.md)
+* [Cloud Value Framework](misc/cloud-value-framework.md)
 
 ## Cloud Economics
 
