@@ -20,6 +20,10 @@ Cloud economics = business value and cloud financial management
     4. Business agility
 * **CLOUD FINANCIAL MANAGEMENT** 
   * Helps customers be financially successful in managing their cloud
+  * 1. Measurement and Accountability
+    2. Cost Optimization 
+    3. Planning and Forecasting 
+    4. Cloud financial management
 
-![](../../.gitbook/assets/screen-shot-2019-11-19-at-2.40.48-pm.png)
+![](../.gitbook/assets/screen-shot-2019-11-19-at-2.40.48-pm.png)
 

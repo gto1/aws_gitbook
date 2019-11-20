@@ -127,6 +127,5 @@
 
 ## Cloud Economics
 
-* [Cloud Value Framework](cloud-economics/cloud-value-framework/README.md)
-  * [Two Sides](cloud-economics/cloud-value-framework/two-sides.md)
+* [Cloud Value Framework](cloud-economics/cloud-value-framework.md)
 
