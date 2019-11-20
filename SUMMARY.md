@@ -123,10 +123,10 @@
 * [Shared Responsibility Model](misc/shared-responsibility-model.md)
 * [Change Management](misc/change-management.md)
 * [Well Architected Framework](misc/well-architected-framework.md)
-* [Cloud Value Framework](misc/cloud-value-framework.md)
 * [AWS Flywheel](misc/aws-flywheel.md)
 
 ## Cloud Economics
 
-* [Two Sides](cloud-economics/untitled.md)
+* [Cloud Value Framework](cloud-economics/cloud-value-framework/README.md)
+  * [Two Sides](cloud-economics/cloud-value-framework/two-sides.md)
 
