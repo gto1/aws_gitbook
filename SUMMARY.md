@@ -14,7 +14,7 @@
 
 * [HA Services](high-availability/ha-services.md)
 * [ASG](high-availability/asg.md)
-* [Alarms](high-availability/untitled.md)
+* [Alarms](high-availability/alarms.md)
 
 ## Storage & Delivery <a id="storage"></a>
 

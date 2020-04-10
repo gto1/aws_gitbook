@@ -7,5 +7,5 @@ description: Monitoring your application
 * Monitor AWS resources and customer resources automatically
 * Visibility into resource utilization, operation performance, overall demand patterns
 * Responses triggered from CPU utilization, disk and network traffic metrics
-* Retrieve and monitor data, view graphs, set [Alarms](../high-availability/untitled.md)
+* Retrieve and monitor data, view graphs, set [Alarms](../high-availability/alarms.md)
 
