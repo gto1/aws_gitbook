@@ -4,14 +4,14 @@ description: Elastic Block Store
 
 # EBS
 
-EBS \(Elastic Block Store\) and [S3](untitled.md) are two file storage services provided by Amazon. The main difference between them is with what they can be used with. EBS is specifically meant for [EC2](../servers/ec2.md) \(Elastic Computing Cloud\) instances and is not accessible unless mounted to one.
+EBS (Elastic Block Store) and [S3](untitled.md) are two storage services provided by Amazon. The main difference between them is with what services they can be used. EBS is specifically meant for [EC2](../servers/ec2.md) (Elastic Computing Cloud) instances and is not accessible unless mounted to one.
 
-![Amazon EBS \(aws.training\)](../.gitbook/assets/screen-shot-2019-10-26-at-3.27.42-pm.png)
+![Amazon EBS (aws.training)](<../.gitbook/assets/Screen Shot 2019-10-26 at 3.27.42 PM.png>)
 
 ## Durability and Backup
 
-* Automatic replication within it's Availability Zone \(AZ\)
-* Incremental snapshot back-up to Amazon S3 \(optional\)
+* Automatic replication within it's Availability Zone (AZ)
+* Incremental snapshot back-up to Amazon S3 (optional)
 
 ## I/O Provisioning
 
@@ -25,7 +25,5 @@ EBS \(Elastic Block Store\) and [S3](untitled.md) are two file storage services 
 * Provisioned IOPS
 * General Purpose
 
-![EBS types \(aws.training\)](../.gitbook/assets/screen-shot-2019-10-26-at-3.58.08-pm.png)
-
-
+![EBS types (aws.training)](<../.gitbook/assets/Screen Shot 2019-10-26 at 3.58.08 PM.png>)
 

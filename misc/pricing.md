@@ -6,9 +6,8 @@ description: Cost characteristics on AWS
 
 Charges based on type of service.
 
-* On-demand - pay for compute by the second, no commitments 
+* On-demand - pay for compute by the second, no commitments&#x20;
 * Reserved instances - discount for 1 or 3 year commitments
 * Spot - spare/available EC2 capacity that isn't being used
 
-![](../.gitbook/assets/screen-shot-2019-11-18-at-6.04.28-pm.png)
-
+![](<../.gitbook/assets/Screen Shot 2019-11-18 at 6.04.28 PM.png>)

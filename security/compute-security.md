@@ -1,4 +1,3 @@
 # Compute Security
 
-![](../.gitbook/assets/screen-shot-2019-11-18-at-6.09.30-pm.png)
-
+![](<../.gitbook/assets/Screen Shot 2019-11-18 at 6.09.30 PM.png>)
